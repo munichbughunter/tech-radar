@@ -161,27 +161,6 @@
     "description": "Scala is a modern multi-paradigm programming language designed to express common programming patterns in a concise, elegant, and type-safe way"
   },
   {
-    "name": "AWS Lambda",
-    "ring": "adopt",
-    "quadrant": "platforms",
-    "isNew": "TRUE",
-    "description": "AWS Lambda is an event-driven computing cloud service from Amazon Web Services that allows developers to program functions on a pay-per-use basis without having to provision storage or compute resources to support them"
-  },
-  {
-    "name": "AWS Aurora",
-    "ring": "assess",
-    "quadrant": "platforms",
-    "isNew": "TRUE",
-    "description": "Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for the cloud"
-  },
-  {
-    "name": "AWS DynamoDB",
-    "ring": "assess",
-    "quadrant": "platforms",
-    "isNew": "TRUE",
-    "description": "Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency"
-  },
-  {
     "name": "Microsoft Azure",
     "ring": "assess",
     "quadrant": "platforms",
