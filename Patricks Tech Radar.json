@@ -161,6 +161,13 @@
     "description": "Scala is a modern multi-paradigm programming language designed to express common programming patterns in a concise, elegant, and type-safe way"
   },
   {
+    "name": "AWS Lambda",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "AWS Lambda is an event-driven computing cloud service from Amazon Web Services that allows developers to program functions on a pay-per-use basis without having to provision storage or compute resources to support them"
+  },
+  {
     "name": "Microsoft Azure",
     "ring": "assess",
     "quadrant": "platforms",
