@@ -1,30 +1,317 @@
 [
   {
-    "name": "Composer",
+    "name": "Behavior Driven Development (BDD)",
     "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "TRUE",
-    "description": "Although the idea of dependency management ..."
-  },
-  {
-    "name": "Canary builds",
-    "ring": "trial",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "Many projects have external code dependencies ..."
+    "description": "Behavior-driven development (BDD) is an Agile software development methodology in which an application is documented and designed around the behavior a user expects to experience when interacting with it"
   },
   {
-    "name": "Apache Kylin",
+    "name": "Test Driven Development (TDD)",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed"
+  },
+  {
+    "name": "Unit Testing",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "A unit test exercises the smallest piece of testable software in the application to determine whether it behaves as expected"
+  },
+  {
+    "name": "Integration Testing",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "An integration test verifies the communication paths and interactions between components to detect interface defects"
+  },
+  {
+    "name": "Component Testing",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "A component test limits the scope of the exercised software to a portion of the system under test, manipulating the system through internal code interfaces and using test doubles to isolate the code under test from other components"
+  },
+  {
+    "name": "Consumer Driven Contract Testing",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "An integration contract test is a test at the boundary of an external service verifying that it meets the contract expected by a consuming service"
+  },
+  {
+    "name": "End-To-End Testing",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "An end-to-end test verifies that a system meets external requirements and achieves its goals, testing the entire system, from end to end"
+  },
+  {
+    "name": "Chaos Testing",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Chaos testing is a technique for testing software systems that are under the influence of external forces, such as external events, such as a network outage, or external processes, such as a process crash"
+  },
+  {
+    "name": "Load- and Performance-Testing",
     "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Load and performance testing is the process of putting demand on a system and measuring its response"
+  },
+  {
+    "name": "Screenplay Pattern",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "The Screenplay Pattern is a user-centric model with users and external systems interacting with the system under test represented as actors"
+  },
+  {
+    "name": "Page Object Model",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Page Object Model, also known as POM, is a design pattern that creates an object repository for storing all web elements"
+  },
+  {
+    "name": "Agile",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Agile software development is more than frameworks such as Scrum, Extreme Programming, or Feature-Driven Development (FDD). https://www.agilealliance.org/agile101/"
+  },
+  {
+    "name": "Scrum",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems"
+  },
+  {
+    "name": "Kanban",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Kanban Board is a visual representation of the Agile task boards"
+  },
+  {
+    "name": "DevOps",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "DevOps is a culture that enables formerly siloed roles—development, IT operations, quality engineering, and security to coordinate and collaborate to produce better, more reliable products"
+  },
+  {
+    "name": "Kotlin",
+    "ring": "adopt",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": "Kotlin is a multiplatform, statically typed, general-purpose programming language"
+  },
+  {
+    "name": "Java",
+    "ring": "adopt",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": "Java is a multi-platform, object-oriented, and network-centric language"
+  }, 
+  {
+    "name": "Python",
+    "ring": "adopt",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics"
+  },
+  {
+    "name": "C#",
+    "ring": "adopt",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": "C# is a modern, object-oriented, and type-safe programming language"
+  },
+  {
+    "name": "TypeScript",
+    "ring": "adopt",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": "TypeScript a strict syntactical superset of JavaScript and adds optional static typing to the language"
+  },
+  {
+    "name": "JavaScript",
+    "ring": "adopt",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": "JavaScript is a dynamic computer programming language"
+  },
+  {
+    "name": "GoLang",
+    "ring": "trial",
+    "quadrant": "languages",
+    "isNew": "TRUE",
+    "description": "Go is an open source programming language used for general purpose"
+  },
+  {
+    "name": "Scala",
+    "ring": "trial",
+    "quadrant": "languages",
+    "isNew": "TRUE",
+    "description": "Scala is a modern multi-paradigm programming language designed to express common programming patterns in a concise, elegant, and type-safe way"
+  },
+  {
+    "name": "AWS",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon"
+  },
+  {
+    "name": "Microsoft Azure",
+    "ring": "trial",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Apache Kylin is an open source analytics solution ..."
+    "description": "Microsoft Azure is Microsoft's public cloud computing platform"
   },
   {
-    "name": "JSF",
-    "ring": "hold",
-    "quadrant": "languages & frameworks",
+    "name": "Google Cloud Platform (GCP)",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Google Cloud Platform is a suite of public cloud computing services offered by Google"
+  },
+  {
+    "name": "Playwright",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "We continue to see teams run into trouble using JSF ..."
+    "description": "Browser Automation Framework"
+  },
+  {
+    "name": "7Facette",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Kotlin Mutliplatform Test Automation Library"
+  },
+  {
+    "name": "Selenium",
+    "ring": "hold",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Selenium is a web automation framework for testing web applications"
+  },
+  {
+    "name": "Appium",
+    "ring": "assess",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Appium is a mobile automation framework for testing mobile applications"
+  },
+  {
+    "name": "Cypress",
+    "ring": "hold",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Cypress is a JavaScript testing framework for testing web applications"
+  },
+  {
+    "name": "Jest",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Jest is a JavaScript testing framework for testing web applications"
+  },
+  {
+    "name": "Mocha",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Mocha is a JavaScript testing framework for testing web applications"
+  },
+  {
+    "name": "Nightwatch",
+    "ring": "trial",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Nightwatch is a JavaScript testing framework for testing web applications"
+  },
+  {
+    "name": "Gatling",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Gatling is a load testing framework for testing web applications"
+  },
+  {
+    "name": "JUnit5",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "JUnit is one of the most popular unit-testing frameworks in the Java ecosystem"
+  },
+  {
+    "name": "Cucumber",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Cucumber is a software tool that supports behavior-driven development (BDD)"
+  },
+  {
+    "name": "Maven",
+    "ring": "hold",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Java build and dependency management tool using a 'Convention over configuration'-approach"
+  },
+  {
+    "name": "Gradle",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Gradle is a build automation tool for multi-language software development"
+  },
+  {
+    "name": "pyTest",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "PyTest is a testing framework that allows users to write test codes using Python programming language"
+  },
+  {
+    "name": "React",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Java script library for building Front end applications. https://reactjs.org/"
+  },
+  {
+    "name": "SBT",
+    "ring": "trial",
+    "quadrant": "frameworks & tools",
+    "isNew": "TRUE",
+    "description": "Scala build tool"
+  },
+  {
+    "name": "Spring Boot",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "The Spring Framework is an application framework and inversion of control container for the Java platform"
+  },
+  {
+    "name": "Vue.js",
+    "ring": "trial",
+    "quadrant": "frameworks & tools",
+    "isNew": "TRUE",
+    "description": "Vue.js is a JavaScript Framework for building interactive web applications"
+  },
+  {
+    "name": "Postman",
+    "ring": "adopt",
+    "quadrant": "frameworks & tools",
+    "isNew": "FALSE",
+    "description": "Postman is a web automation tool that allows users to test APIs"
   }
 ]
