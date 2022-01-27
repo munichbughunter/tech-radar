@@ -53,279 +53,279 @@
     "ring": "trial",
     "quadrant": "techniques",
     "isNew": "TRUE",
-    "description": "Chaos testing is a technique for testing software systems that are under the influence of external forces, such as external events, such as a network outage, or external processes, such as a process crash"
+    "description": "Sub Category: Testing\nPlacement Reason: I want to learn about.\nDescription: Chaos testing is a technique for testing software systems that are under the influence of external forces, such as external events, such as a network outage, or external processes, such as a process crash"
   },
   {
     "name": "Load- and Performance-Testing",
     "ring": "assess",
     "quadrant": "techniques",
     "isNew": "TRUE",
-    "description": "Load and performance testing is the process of putting demand on a system and measuring its response"
+    "description": "Sub Category: Testing\nPlacement Reason: Test Discipline in projects.\nDescription: Load and performance testing is the process of putting demand on a system and measuring its response"
   },
   {
     "name": "Screenplay Pattern",
     "ring": "adopt",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "The Screenplay Pattern is a user-centric model with users and external systems interacting with the system under test represented as actors"
+    "description": "Sub Category: Testing\nPlacement Reason: ScreenPlay Pattern encourages better software engineering practices, and thus makes the tests faster to write and easier to maintain in the long term.\nDescription: The Screenplay Pattern is a user-centric model with users and external systems interacting with the system under test represented as actors"
   },
   {
     "name": "Page Object Model",
     "ring": "hold",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "Page Object Model, also known as POM, is a design pattern that creates an object repository for storing all web elements"
+    "description": "Sub Category: Testing\nPlacement Reason: Page Objects cause problems like duplicate code, missing waits, and messy inheritance.\nDescription: Page Object Model, also known as POM, is a design pattern that creates an object repository for storing all web elements"
   },
   {
     "name": "Agile",
     "ring": "adopt",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "Agile software development is more than frameworks such as Scrum, Extreme Programming, or Feature-Driven Development (FDD). https://www.agilealliance.org/agile101/"
+    "description": "Sub Category: Methodology\nPlacement Reason: Highly used across IT industry and standard Development methodology\nDescription: Agile software development is more than frameworks such as Scrum, Extreme Programming, or Feature-Driven Development (FDD). https://www.agilealliance.org/agile101/"
   },
   {
     "name": "Scrum",
     "ring": "adopt",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems"
+    "description": "Sub Category: Methodology\nPlacement Reason: Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.\nDescription: Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems"
   },
   {
     "name": "Kanban",
     "ring": "adopt",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "Kanban Board is a visual representation of the Agile task boards"
+    "description": "Sub Category: Methodology\nPlacement Reason: Kanban is a method applied across all fields of work to help teams drive down costs and become more efficient by visualizing and improving workflows.\nDescription: Kanban Board is a visual representation of the Agile task boards"
   },
   {
     "name": "DevOps",
     "ring": "assess",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "DevOps is a culture that enables formerly siloed roles—development, IT operations, quality engineering, and security to coordinate and collaborate to produce better, more reliable products"
+    "description": "Sub Category: Methodology\nPlacement Reason: DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.\nDescription: DevOps is a culture that enables formerly siloed roles—development, IT operations, quality engineering, and security to coordinate and collaborate to produce better, more reliable products"
   },
   {
     "name": "Kotlin",
     "ring": "adopt",
     "quadrant": "languages",
     "isNew": "FALSE",
-    "description": "Kotlin is a multiplatform, statically typed, general-purpose programming language"
+    "description": "Placement Reason: Kotlin is a language that supports multiplatform targets, you can run Kotlin on virtually any device these days, be it a PC or a Mac, and also as native code.\nDescription: Kotlin is a multiplatform, statically typed, general-purpose programming language"
   },
   {
     "name": "Java",
     "ring": "adopt",
     "quadrant": "languages",
     "isNew": "FALSE",
-    "description": "Java is a multi-platform, object-oriented, and network-centric language"
+    "description": "Placement Reason: Widely used.\nDescription: Java is a multi-platform, object-oriented, and network-centric language"
   }, 
   {
     "name": "Python",
     "ring": "adopt",
     "quadrant": "languages",
     "isNew": "FALSE",
-    "description": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics"
+    "description": "Placement Reason: Widely used.\nDescription: Python is an interpreted, object-oriented, high-level programming language with dynamic semantics"
   },
   {
     "name": "C#",
     "ring": "adopt",
     "quadrant": "languages",
     "isNew": "FALSE",
-    "description": "C# is a modern, object-oriented, and type-safe programming language"
+    "description": "Placement Reason: Widely used.\nDescription: C# is a modern, object-oriented, and type-safe programming language"
   },
   {
     "name": "TypeScript",
     "ring": "adopt",
     "quadrant": "languages",
     "isNew": "FALSE",
-    "description": "TypeScript a strict syntactical superset of JavaScript and adds optional static typing to the language"
+    "description": "Placement Reason: Widely used in JS Projects.\nDescription: TypeScript a strict syntactical superset of JavaScript and adds optional static typing to the language"
   },
   {
     "name": "JavaScript",
     "ring": "adopt",
     "quadrant": "languages",
     "isNew": "FALSE",
-    "description": "JavaScript is a dynamic computer programming language"
+    "description": "Placement Reason: Widely used.\nDescription: JavaScript is a dynamic computer programming language"
   },
   {
     "name": "GoLang",
     "ring": "trial",
     "quadrant": "languages",
     "isNew": "TRUE",
-    "description": "Go is an open source programming language used for general purpose"
+    "description": "Placement Reason: I want to learn about.\nDescription: Go is an open source programming language used for general purpose"
   },
   {
     "name": "Scala",
     "ring": "trial",
     "quadrant": "languages",
     "isNew": "TRUE",
-    "description": "Scala is a modern multi-paradigm programming language designed to express common programming patterns in a concise, elegant, and type-safe way"
+    "description": "Placement Reason: I want to learn about Scala. It combines object-oriented and functional programming in one concise, high-level language.\nDescription: Scala is a modern multi-paradigm programming language designed to express common programming patterns in a concise, elegant, and type-safe way"
   },
   {
     "name": "AWS Lambda",
     "ring": "adopt",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "AWS Lambda is an event-driven computing cloud service from Amazon Web Services that allows developers to program functions on a pay-per-use basis without having to provision storage or compute resources to support them"
+    "description": "Sub Category: Cloud services\nPlacement Reason: Good experience with set up and handling Lambda Functions and Event Driven Architectures.\nDescription: AWS Lambda is an event-driven computing cloud service from Amazon Web Services that allows developers to program functions on a pay-per-use basis without having to provision storage or compute resources to support them"
   },
   {
     "name": "AWS Aurora",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for the cloud"
+    "description": "Sub Category: Cloud services\nPlacement Reason: Learn about and make a Deep Dive.\nDescription: Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for the cloud"
   },
   {
     "name": "AWS DynamoDB",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency"
+    "description": "Sub Category: Cloud services\nPlacement Reason: Learn about and make a Deep Dive.\nDescription: Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency"
   },
   {
     "name": "Microsoft Azure",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Microsoft Azure is Microsoft's public cloud computing platform"
+    "description": "Sub Category: Cloud services\nPlacement Reason: Get in Touch with Azure to learn.\nDescription: Microsoft Azure is Microsoft's public cloud computing platform"
   },
   {
     "name": "Google Cloud Platform (GCP)",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Google Cloud Platform is a suite of public cloud computing services offered by Google"
+    "description": "Sub Category: Cloud services\nPlacement Reason: Get in Touch with GCP to learn.\nDescription: Google Cloud Platform is a suite of public cloud computing services offered by Google"
   },
   {
     "name": "Playwright",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Browser Automation Framework"
+    "description": "Sub Category: Frameworks\nPlacement Reason: Playwright enables fast, reliable and capable testing and automation across all modern browsers.\nDescription: Playwright is an out-of-process automation driver that is not limited by the scope of in-page JavaScript execution and can automate scenarios with multiple pages."
   },
   {
     "name": "7Facette",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Kotlin Mutliplatform Test Automation Library"
+    "description": "Sub Category: Library\nPlacement Reason:  It is designed to provide a structure for developing higher quality automated acceptance and regression tests easier and faster\nDescription: 7Facette is an open-source multiplatform test automation library supporting JVM and JS."
   },
   {
     "name": "Selenium",
     "ring": "hold",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Selenium is a web automation framework for testing web applications"
+    "description": "Sub Category: Frameworks\nPlacement Reason: Benchmarking not as good as Playwright.\nDescription: Selenium is a web automation framework for testing web applications"
   },
   {
     "name": "Appium",
     "ring": "assess",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Appium is a mobile automation framework for testing mobile applications"
+    "description": "Sub Category: Frameworks\nPlacement Reason: Good open source mobile automation solution.\nDescription: Appium is a mobile automation framework for testing mobile applications"
   },
   {
     "name": "Cypress",
     "ring": "hold",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Cypress is a JavaScript testing framework for testing web applications"
+    "description": "Sub Category: Frameworks\nPlacement Reason: Don't support cross domain handling.\nDescription: Cypress is a JavaScript testing framework for testing web applications"
   },
   {
     "name": "Jest",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Jest is a JavaScript testing framework for testing web applications"
+    "description": "Sub Category: Frameworks\nPlacement Reason: One of the best JS Testing Frameworks.\nDescription: Jest is a JavaScript testing framework for testing web applications"
   },
   {
     "name": "Mocha",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Mocha is a JavaScript testing framework for testing web applications"
+    "description": "Sub Category: Frameworks\nPlacement Reason: Mocha is a testing library for Node. js, created to be a simple, extensible, and fast. It's used for unit and integration testing, and it's a great candidate for BDD (Behavior Driven Development).\nDescription: Mocha is a JavaScript testing framework for testing web applications"
   },
   {
     "name": "Nightwatch",
     "ring": "trial",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Nightwatch is a JavaScript testing framework for testing web applications"
+    "description": "Sub Category: Frameworks\nPlacement Reason: No deep experience.\nDescription: Nightwatch is a JavaScript testing framework for testing web applications"
   },
   {
     "name": "Gatling",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Gatling is a load testing framework for testing web applications"
+    "description": "Sub Category: Frameworks\nPlacement Reason: One of the best frameworks for L&P Testing.\nDescription: Gatling is a load testing framework for testing web applications"
   },
   {
     "name": "JUnit5",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "JUnit is one of the most popular unit-testing frameworks in the Java ecosystem"
+    "description": "Sub Category: Frameworks\nPlacement Reason: Standard in the JVM world.\nDescription: JUnit is one of the most popular unit-testing frameworks in the Java ecosystem"
   },
   {
     "name": "Cucumber",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Cucumber is a software tool that supports behavior-driven development (BDD)"
+    "description": "Sub Category: Tools\nPlacement Reason: Cucumber enables you to write scenarios that anyone can easily understand regardless of their technical knowledge.\nDescription: Cucumber is a software tool that supports behavior-driven development (BDD)"
   },
   {
     "name": "Maven",
     "ring": "hold",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Java build and dependency management tool using a 'Convention over configuration'-approach"
+    "description": "Sub Category: Tools\nPlacement Reason: Slower and less maintainable as gradle.\nDescription: Java build and dependency management tool using a 'Convention over configuration'-approach"
   },
   {
     "name": "Gradle",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Gradle is a build automation tool for multi-language software development"
+    "description": "Sub Category: Tools\nPlacement Reason: Fast, maintainable.\nDescription: Gradle is a build automation tool for multi-language software development"
   },
   {
     "name": "pyTest",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "PyTest is a testing framework that allows users to write test codes using Python programming language"
+    "description": "Sub Category: Frameworks\nPlacement Reason: pyTest is the de facto standard framework for testing Python code.\nDescription: PyTest is a testing framework that allows users to write test codes using Python programming language"
   },
   {
     "name": "React",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Java script library for building Front end applications. https://reactjs.org/"
+    "description": "Sub Category: Frameworks\nPlacement Reason: Widely used.\nDescription: Java script library for building Front end applications. https://reactjs.org/"
   },
   {
     "name": "SBT",
     "ring": "trial",
     "quadrant": "frameworks & tools",
     "isNew": "TRUE",
-    "description": "Scala build tool"
+    "description": "Sub Category: Tools\nPlacement Reason: Learn in combination with Scala.\nDescription: Scala build tool"
   },
   {
     "name": "Spring Boot",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "The Spring Framework is an application framework and inversion of control container for the Java platform"
+    "description": "Sub Category: Frameworks\nPlacement Reason: Widely used in the JVM world.\nDescription: The Spring Framework is an application framework and inversion of control container for the Java platform"
   },
   {
     "name": "Vue.js",
     "ring": "trial",
     "quadrant": "frameworks & tools",
     "isNew": "TRUE",
-    "description": "Vue.js is a JavaScript Framework for building interactive web applications"
+    "description": "Sub Category: Frameworks\nPlacement Reason: Get an overview on Vue.js\nDescription: Vue.js is a JavaScript Framework for building interactive web applications"
   },
   {
     "name": "Postman",
     "ring": "adopt",
     "quadrant": "frameworks & tools",
     "isNew": "FALSE",
-    "description": "Postman is a web automation tool that allows users to test APIs"
+    "description": "Sub Category: Tools\nPlacement Reason: Many useful features for Testing APIs. Widely used across IT industry.\nDescription: Postman is a web automation tool that allows users to test APIs"
   }
 ]
