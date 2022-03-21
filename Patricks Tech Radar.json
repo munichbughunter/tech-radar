@@ -182,18 +182,32 @@
     "description": "Sub Category: Cloud services\nPlacement Reason: Learn about and make a Deep Dive.\nDescription: Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency"
   },
   {
-    "name": "Microsoft Azure",
-    "ring": "assess",
+    "name": "Azure Functions",
+    "ring": "hold",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Sub Category: Cloud services\nPlacement Reason: Get in Touch with Azure to learn.\nDescription: Microsoft Azure is Microsoft's public cloud computing platform"
+    "description": "Sub Category: Cloud services\nPlacement Reason: Really expensive and hard to work with.\nDescription: Microsoft Azure is Microsoft's public cloud computing platform"
   },
   {
-    "name": "Google Cloud Platform (GCP)",
-    "ring": "assess",
+    "name": "Google Cloud Build",
+    "ring": "adopt",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Sub Category: Cloud services\nPlacement Reason: Get in Touch with GCP to learn.\nDescription: Google Cloud Platform is a suite of public cloud computing services offered by Google"
+    "description": "Sub Category: Cloud services\nPlacement Reason: Good to go.\nDescription: Google Cloud Platform is a suite of public cloud computing services offered by Google"
+  },
+  {
+    "name": "Google Cloud Run",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Sub Category: Cloud services\nPlacement Reason: Really great if you run your container better than AWS.\nDescription: Google Cloud Platform is a suite of public cloud computing services offered by Google"
+  },
+  {
+    "name": "Google Cloud Function",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Sub Category: Cloud services\nPlacement Reason: Great to work with.\nDescription: Google Cloud Platform is a suite of public cloud computing services offered by Google"
   },
   {
     "name": "Playwright",
